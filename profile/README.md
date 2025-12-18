@@ -1,6 +1,6 @@
-# KFabric
+# KFabrik
 
-**KFabric** is a developer and CI tool for building reliable, reproducible CNCF Cloud-Native AI (CNAI) stacks.
+**KFabrik** is a developer and CI tool for building reliable, reproducible CNCF Cloud-Native AI (CNAI) stacks.
 
 ## What we do
 - Spin up local CNAI stacks for development and testing (Kubernetes, KServe, Ray, vLLM, vector DBs)
